@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
-  </div>
+    <Button label="PrimeVue" />
+ </div>
 </template>
